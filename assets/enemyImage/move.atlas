@@ -1,0 +1,61 @@
+move.png
+size: 450, 450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+move
+  rotate: false
+  xy: 0, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 0
+move
+  rotate: false
+  xy: 150, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+move
+  rotate: false
+  xy: 300, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
+move
+  rotate: false
+  xy: 0, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+move
+  rotate: false
+  xy: 150, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+move
+  rotate: false
+  xy: 300, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 5
+move
+  rotate: false
+  xy: 0, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 6
+move
+  rotate: false
+  xy: 150, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 7

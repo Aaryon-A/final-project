@@ -1,0 +1,40 @@
+fall.png
+size: 29, 190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fall
+  rotate: false
+  xy: 0, 0
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: 0
+fall
+  rotate: false
+  xy: 0, 38
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: 1
+fall
+  rotate: false
+  xy: 0, 76
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: 2
+fall
+  rotate: false
+  xy: 0, 114
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: 3
+fall
+  rotate: false
+  xy: 0, 152
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: 4

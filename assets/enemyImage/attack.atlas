@@ -1,0 +1,61 @@
+attack.png
+size: 450, 450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack
+  rotate: false
+  xy: 0, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 0
+attack
+  rotate: false
+  xy: 150, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+attack
+  rotate: false
+  xy: 300, 0
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
+attack
+  rotate: false
+  xy: 0, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+attack
+  rotate: false
+  xy: 150, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+attack
+  rotate: false
+  xy: 300, 150
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 5
+attack
+  rotate: false
+  xy: 0, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 6
+attack
+  rotate: false
+  xy: 150, 300
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 7

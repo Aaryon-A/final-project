@@ -1,0 +1,75 @@
+death.png
+size: 126, 80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death
+  rotate: false
+  xy: 0, 0
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: 0
+death
+  rotate: false
+  xy: 30, 0
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: 1
+death
+  rotate: false
+  xy: 59, 0
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: 2
+death
+  rotate: false
+  xy: 91, 0
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: 3
+death
+  rotate: false
+  xy: 0, 39
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: 4
+death
+  rotate: false
+  xy: 38, 39
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: 5
+death
+  rotate: false
+  xy: 75, 39
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: 6
+death
+  rotate: false
+  xy: 0, 63
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: 7
+death
+  rotate: false
+  xy: 39, 63
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: 8
+death
+  rotate: false
+  xy: 80, 63
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: 9

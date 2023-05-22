@@ -1,0 +1,40 @@
+jump.png
+size: 29, 188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jump
+  rotate: false
+  xy: 0, 0
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: 0
+jump
+  rotate: false
+  xy: 0, 38
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: 1
+jump
+  rotate: false
+  xy: 0, 76
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: 2
+jump
+  rotate: false
+  xy: 0, 114
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: 3
+jump
+  rotate: false
+  xy: 0, 151
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: 4

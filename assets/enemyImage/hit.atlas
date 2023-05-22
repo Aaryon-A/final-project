@@ -1,0 +1,33 @@
+hit.png
+size: 122, 131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit
+  rotate: false
+  xy: 83, 1
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: 0
+hit
+  rotate: false
+  xy: 75, 65
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: 1
+hit
+  rotate: false
+  xy: 1, 1
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: 2
+hit
+  rotate: false
+  xy: 1, 65
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: 3

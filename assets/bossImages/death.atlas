@@ -1,0 +1,145 @@
+death.png
+size: 256, 1058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death
+  rotate: false
+  xy: 0, 0
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: 0
+death
+  rotate: false
+  xy: 80, 0
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: 1
+death
+  rotate: false
+  xy: 150, 0
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: 2
+death
+  rotate: false
+  xy: 0, 97
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: 3
+death
+  rotate: false
+  xy: 72, 97
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: 4
+death
+  rotate: false
+  xy: 160, 97
+  size: 95, 113
+  orig: 95, 113
+  offset: 0, 0
+  index: 5
+death
+  rotate: false
+  xy: 0, 210
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: 6
+death
+  rotate: false
+  xy: 117, 210
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: 7
+death
+  rotate: false
+  xy: 0, 331
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: 8
+death
+  rotate: false
+  xy: 128, 331
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: 9
+death
+  rotate: false
+  xy: 0, 454
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: 10
+death
+  rotate: false
+  xy: 128, 454
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: 11
+death
+  rotate: false
+  xy: 0, 578
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: 12
+death
+  rotate: false
+  xy: 125, 578
+  size: 125, 115
+  orig: 125, 115
+  offset: 0, 0
+  index: 13
+death
+  rotate: false
+  xy: 0, 693
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: 14
+death
+  rotate: false
+  xy: 119, 693
+  size: 113, 121
+  orig: 113, 121
+  offset: 0, 0
+  index: 15
+death
+  rotate: false
+  xy: 0, 814
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: 16
+death
+  rotate: false
+  xy: 114, 814
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: 17
+death
+  rotate: false
+  xy: 0, 937
+  size: 114, 121
+  orig: 114, 121
+  offset: 0, 0
+  index: 18
+death
+  rotate: false
+  xy: 114, 937
+  size: 114, 85
+  orig: 114, 85
+  offset: 0, 0
+  index: 19
